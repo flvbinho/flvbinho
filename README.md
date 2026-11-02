@@ -4,18 +4,10 @@ Sou **Analista de QA (Quality Assurance)** com sólida experiência em testes de
 ---
 
 ### 💻 Habilidades Técnicas & Ferramentas
-* **Testes & Automação:** Cypress, Cucumber, Gherkin (BDD), Postman, Swagger, JMeter, Cypress Page Object Model.
+* **Testes & Automacão:** Cypress, Cucumber, Gherkin (BDD), Postman, Swagger, JMeter, Cypress Page Object Model.
 * **APIs & Bancos de Dados:** Validação de Contratos, JSON, SQL Server, PostgreSQL, Consultas SQL.
 * **CI/CD & DevOps:** GitHub Actions, Azure DevOps, AWS, Git, GitHub.
 * **Metodologias:** Scrum, Kanban, JIRA.
 
 ---
-
-### 📈 Estatísticas do GitHub
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=flvbinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/top-langs/?username=flvbinho&layout=compact&theme=tokyonight"/>
-</p>
-
----
-📫 **Vamos nos conectar?** [Adicione-me no LinkedIn](https://www.linkedin.com)
+📫 **Vamos nos conectar?** [Adicione-me no LinkedIn](https://www.linkedin.com/in/fl%C3%A1vio-ferreira-martins-336055b3/)
